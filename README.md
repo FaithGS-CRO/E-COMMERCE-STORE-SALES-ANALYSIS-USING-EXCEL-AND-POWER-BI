@@ -17,7 +17,6 @@ This project is an interactive Power BI dashboard developed to analyze e-commerc
 
 ## Dashboard Features
 - 📈 Total Revenue KPI
-- 🛒 Order Volume Analysis
 - 🌍 Revenue by Country/Region
 - 📅 Monthly Sales Trends
 - ⭐ Top-Selling Products
@@ -43,7 +42,7 @@ This project is an interactive Power BI dashboard developed to analyze e-commerc
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](powerBI dashboa)
+![Dashboard Screenshot](powerBI_screenshot.png)
 
 ---
 ## Key Insights
